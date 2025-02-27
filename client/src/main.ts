@@ -9,3 +9,7 @@ const app = createApp(App)
 app.use(router)
 
 app.mount('#app')
+
+if(1==1){
+    console.log("hello") 
+}
